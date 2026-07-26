@@ -1,1 +1,1 @@
-# automation-project
+# Automation Project
